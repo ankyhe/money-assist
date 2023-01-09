@@ -1,0 +1,23 @@
+# OSX
+.DS_Store
+
+# Windows
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# IDE
+.idea
+
+# Go
+vendor/*
+
+# exec
+main
+money-assist
+release/*
+release.zip
