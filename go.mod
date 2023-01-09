@@ -1,4 +1,4 @@
-module gitlab.eng.vmware.com/hez/money-assist
+module https://github.com/ankyhe/money-assist
 
 go 1.18
 
